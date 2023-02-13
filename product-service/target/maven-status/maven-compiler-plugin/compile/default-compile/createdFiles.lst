@@ -1,0 +1,9 @@
+com\productservice\productservice\service\ProductService.class
+com\productservice\productservice\service\ProductServiceImpl.class
+com\productservice\productservice\dtos\ProductDTO.class
+com\productservice\productservice\entity\Product$ProductBuilder.class
+com\productservice\productservice\dtos\ProductDTO$ProductDTOBuilder.class
+com\productservice\productservice\entity\Product.class
+com\productservice\productservice\controller\ProductController.class
+com\productservice\productservice\ProductServiceApplication.class
+com\productservice\productservice\repo\ProductRepo.class
