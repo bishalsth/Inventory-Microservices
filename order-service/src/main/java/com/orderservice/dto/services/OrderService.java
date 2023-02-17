@@ -1,4 +1,4 @@
-package com.orderservice.services;
+package com.orderservice.dto.services;
 
 import com.orderservice.config.WebClientConfig;
 import com.orderservice.dto.InventoryResponse;

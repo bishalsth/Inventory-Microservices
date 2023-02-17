@@ -1,7 +1,7 @@
 package com.orderservice.controller;
 
 import com.orderservice.dto.OrderRequest;
-import com.orderservice.services.OrderService;
+import com.orderservice.dto.services.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
